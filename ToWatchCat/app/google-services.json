@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541195654350",
+    "project_id": "towatchcat-6b52b",
+    "storage_bucket": "towatchcat-6b52b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541195654350:android:00342bb71604fd8968ac9f",
+        "android_client_info": {
+          "package_name": "com.example.towatchcat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541195654350-60pn9m0d8vogal3k9egerfds23s7kni4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexd4cgNjvoLGHcGcgCP3iM9THHo1vTEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541195654350-60pn9m0d8vogal3k9egerfds23s7kni4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

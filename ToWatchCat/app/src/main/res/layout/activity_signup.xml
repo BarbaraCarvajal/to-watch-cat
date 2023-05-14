@@ -1,0 +1,97 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignupActivity"
+    android:background="@drawable/fondo1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                android:layout_marginTop="20dp"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/logo_black_liviano"
+                android:scaleType="fitXY"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <EditText
+                android:id="@+id/signup_email"
+                android:layout_width="350dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/borde"
+                android:padding="8dp"
+                android:hint="Email"
+                android:drawableLeft="@drawable/icon_email"
+                android:drawablePadding="10dp"
+                android:textColor="@color/black"/>
+
+            <EditText
+                android:id="@+id/signup_contrasenia"
+                android:inputType="textPassword"
+                android:layout_width="350dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/borde"
+                android:padding="8dp"
+                android:hint="Password"
+                android:drawableLeft="@drawable/icon_contrasenia"
+                android:drawablePadding="10dp"
+                android:textColor="@color/black"/>
+
+            <EditText
+                android:id="@+id/signup_confirmacion"
+                android:inputType="textPassword"
+                android:layout_width="350dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/borde"
+                android:padding="8dp"
+                android:hint="Confirm Password"
+                android:drawableLeft="@drawable/icon_candado"
+                android:drawablePadding="10dp"
+                android:textColor="@color/black"/>
+            <Button
+                android:id="@+id/signUpButton"
+                android:layout_width="350dp"
+                android:layout_height="70dp"
+                android:layout_marginTop="30dp"
+                android:text="Sign Up"
+                android:textSize="18sp"
+                app:cornerRadius="30dp"/>
+
+            <TextView
+                android:id="@+id/loginRedirectText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:padding="8dp"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp"
+                android:textSize="18sp"
+                android:text="Already an user? Login"/>
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
