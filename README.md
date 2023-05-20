@@ -64,6 +64,10 @@ La aplicación se ha convertido en el compañero perfecto para Bárbara en su b�
 | Cluster 5 | - No tener acceso a información actualizada sobre nuevos lanzamientos o próximas películas. <br> - No poder acceder a la información de las películas sin conexión a internet. |
 | Cluster 6 | - Falta de integración con otros dispositivos, como televisores o reproductores multimedia. <br> - No poder recibir notificaciones o recordatorios sobre el estreno de una película deseada o una película en la lista de "para ver más tarde". |
 
-## Avances de la aplicación
+## Avances de la aplicación 📲
 ### Login
 ![](https://github.com/BarbaraCarvajal/to-watch-cat/blob/master/imagenes-readme/principalReadme.PNG)
+
+## Ideas de diseño futuras 🎨
+### Pantalla principal y de lista para ver más tarde
+![](https://github.com/BarbaraCarvajal/to-watch-cat/blob/master/imagenes-readme/ideasdedisenio.png)
