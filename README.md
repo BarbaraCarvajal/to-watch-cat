@@ -68,6 +68,9 @@ La aplicación se ha convertido en el compañero perfecto para Bárbara en su b�
 ### Login
 ![](https://github.com/BarbaraCarvajal/to-watch-cat/blob/master/imagenes-readme/principalReadme.PNG)
 
+### Conexión del login, a través de Email con Firebase 🔥
+![](https://github.com/BarbaraCarvajal/to-watch-cat/blob/master/imagenes-readme/firebase.PNG)
+
 ## Ideas de diseño futuras 🎨
 ### Pantalla principal y de lista para ver más tarde
 ![](https://github.com/BarbaraCarvajal/to-watch-cat/blob/master/imagenes-readme/ideasdedisenio.png)
