@@ -71,7 +71,8 @@ La aplicación se ha convertido en el compañero perfecto para Bárbara en su b�
 
 ### Objetivos futuros
 - Crear la interfaz principal de la apliación, en donde se veran estrenos y/o peliculas-series destacadas.
-  Todo esto debe estar conectado con una API, ¿qué API usaremos? eso aún se esta evaluando 😁
+  Todo esto debe estar conectado con una API, ¿qué API usaremos? eso aún se esta evaluando 😁 Pero mientras tanto
+  esta en la mira la api de [TMDB](https://developer.themoviedb.org/docs)
 - A través de una base de datos guardar los listados del usuarios, tanto el para ver en un futuro como el listado de contenido ya visto.
 
 ## Funcionalidades que se podrían implementar en un futuro
