@@ -57,13 +57,22 @@ La aplicación se ha convertido en el compañero perfecto para Bárbara en su b�
 
 | Cluster | Problemáticas |
 |---------|--------------|
-| Cluster 1: Descubrimiento y búsqueda de contenido | - Dificultad para encontrar películas interesantes y relevantes en la gran cantidad de opciones disponibles. <br> - Pérdida de tiempo buscando películas en diferentes plataformas o servicios de streaming. <br> - Dificultad para recordar el nombre de las películas recomendadas. <br> - Dificultad para recordar en qué plataforma o servicio de streaming se encuentran las películas deseadas. |
-| Cluster 2: Organización y seguimiento de películas vistas y pendientes | - Olvidar las películas que se han visto y no poder llevar un registro de ellas. <br> - No tener acceso a sinopsis, tráilers y reseñas para tomar decisiones informadas sobre qué películas ver. <br> - No contar con un sistema de calificación y comentarios para saber qué películas valen la pena. |
-| Cluster 3: Personalización y listas de películas | - Falta de organización de las películas que se desean ver en el futuro. <br> - No poder crear listas personalizadas según géneros, temáticas o estados de ánimo. |
-| Cluster 4: Recomendaciones y compartición de películas | - Falta de recomendaciones personalizadas basadas en las preferencias del usuario. <br> - No poder compartir fácilmente recomendaciones de películas con amigos y familiares. |
-| Cluster 5: Información actualizada y disponibilidad de contenido | - No tener acceso a información actualizada sobre nuevos lanzamientos o próximas películas. <br> - No poder acceder a la información de las películas sin conexión a internet. |
-| Cluster 6: Integración y notificaciones | - Falta de integración con otros dispositivos, como televisores o reproductores multimedia. <br> - No poder recibir notificaciones o recordatorios sobre el estreno de una película deseada o una película en la lista de "para ver más tarde". |
+| Descubrimiento y búsqueda de contenido | - Dificultad para encontrar películas interesantes y relevantes en la gran cantidad de opciones disponibles. <br> - Pérdida de tiempo buscando películas en diferentes plataformas o servicios de streaming. <br> - Dificultad para recordar el nombre de las películas recomendadas. <br> - Dificultad para recordar en qué plataforma o servicio de streaming se encuentran las películas deseadas. |
+| Organización y seguimiento de películas vistas y pendientes | - Olvidar las películas que se han visto y no poder llevar un registro de ellas. <br> - No tener acceso a sinopsis, tráilers y reseñas para tomar decisiones informadas sobre qué películas ver. <br> - No contar con un sistema de calificación y comentarios para saber qué películas valen la pena. |
+| Personalización y listas de películas | - Falta de organización de las películas que se desean ver en el futuro. <br> - No poder crear listas personalizadas según géneros, temáticas o estados de ánimo. |
+| Recomendaciones y compartición de películas | - Falta de recomendaciones personalizadas basadas en las preferencias del usuario. <br> - No poder compartir fácilmente recomendaciones de películas con amigos y familiares. |
+| Información actualizada y disponibilidad de contenido | - No tener acceso a información actualizada sobre nuevos lanzamientos o próximas películas. <br> - No poder acceder a la información de las películas sin conexión a internet. |
+| Integración y notificaciones | - Falta de integración con otros dispositivos, como televisores o reproductores multimedia. <br> - No poder recibir notificaciones o recordatorios sobre el estreno de una película deseada o una película en la lista de "para ver más tarde". |
 
+## MVP
+### Objetivos ya logrados
+- Crear: Splash, login, singUp ✅
+- Conectar inicio de sesión con Firebase 🔥 ✅
+
+### Objetivos futuros
+- Crear la interfaz principal de la apliación, en donde se veran estrenos y/o peliculas-series destacadas.
+  Todo esto debe estar conectado con una API, ¿qué API usaremos? eso aún se esta evaluando 😁
+- A través de una base de datos guardar los listados del usuarios, tanto el para ver en un futuro como el listado de contenido ya visto.
 
 
 ## Avances de la aplicación 📲
