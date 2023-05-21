@@ -74,6 +74,11 @@ La aplicación se ha convertido en el compañero perfecto para Bárbara en su b�
   Todo esto debe estar conectado con una API, ¿qué API usaremos? eso aún se esta evaluando 😁
 - A través de una base de datos guardar los listados del usuarios, tanto el para ver en un futuro como el listado de contenido ya visto.
 
+## Funcionalidades que se podrían implementar en un futuro
+- Al mostrar una palícula o serie que salga la información del mismo y en que sistema de Streaming poder verla, tales 
+  como Netflix, Hbo, etc.
+- Mostrar trailer a través de Youtube.
+- Compartir lista con otras redes sociales, tales como WhatsApp, Instagram, etc.
 
 ## Avances de la aplicación 📲
 ### Login
