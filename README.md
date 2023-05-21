@@ -55,14 +55,16 @@ La aplicación se ha convertido en el compañero perfecto para Bárbara en su b�
 
 ### Problematicas organizadas en Cluster
 
+
 | Cluster | Problemáticas |
 |---------|--------------|
-| Descubrimiento y búsqueda de contenido (Experiencia de usuario en plataformas de streaming de películas)| - Dificultad para encontrar películas interesantes y relevantes en la gran cantidad de opciones disponibles. <br> - Pérdida de tiempo buscando películas en diferentes plataformas o servicios de streaming. <br> - Dificultad para recordar el nombre de las películas recomendadas. <br> - Dificultad para recordar en qué plataforma o servicio de streaming se encuentran las películas deseadas. |
-| Organización y seguimiento de películas vistas y pendientes (Experiencia de usuario en plataformas de streaming de películas)| - Olvidar las películas que se han visto y no poder llevar un registro de ellas. <br> - No tener acceso a sinopsis, tráilers y reseñas para tomar decisiones informadas sobre qué películas ver. <br> - No contar con un sistema de calificación y comentarios para saber qué películas valen la pena. |
-| Personalización y listas de películas (Experiencia de usuario en plataformas de streaming de películas) | - Falta de organización de las películas que se desean ver en el futuro. <br> - No poder crear listas personalizadas según géneros, temáticas o estados de ánimo. |
-| Recomendaciones y compartición de películas (Experiencia de usuario en plataformas de streaming de películas) | - Falta de recomendaciones personalizadas basadas en las preferencias del usuario. <br> - No poder compartir fácilmente recomendaciones de películas con amigos y familiares. |
-| Información actualizada y disponibilidad de contenido (Experiencia de usuario en plataformas de streaming de películas)| - No tener acceso a información actualizada sobre nuevos lanzamientos o próximas películas. <br> - No poder acceder a la información de las películas sin conexión a internet. |
-| Integración y notificaciones (Experiencia de usuario en plataformas de streaming de películas) | - Falta de integración con otros dispositivos, como televisores o reproductores multimedia. <br> - No poder recibir notificaciones o recordatorios sobre el estreno de una película deseada o una película en la lista de "para ver más tarde". |
+| Descubrimiento y búsqueda de contenido (Usabilidad y búsqueda de películas) | - Dificultad para encontrar películas interesantes y relevantes en la gran cantidad de opciones disponibles. <br> - Pérdida de tiempo buscando películas en diferentes plataformas o servicios de streaming. <br> - Dificultad para recordar el nombre de las películas recomendadas. <br> - Dificultad para recordar en qué plataforma o servicio de streaming se encuentran las películas deseadas. |
+| Organización y seguimiento de películas vistas y pendientes (Gestión de películas vistas y pendientes) | - Olvidar las películas que se han visto y no poder llevar un registro de ellas. <br> - No tener acceso a sinopsis, tráilers y reseñas para tomar decisiones informadas sobre qué películas ver. <br> - No contar con un sistema de calificación y comentarios para saber qué películas valen la pena. |
+| Personalización y listas de películas (Personalización y organización de películas) | - Falta de organización de las películas que se desean ver en el futuro. <br> - No poder crear listas personalizadas según géneros, temáticas o estados de ánimo. |
+| Recomendaciones y compartición de películas (Recomendaciones y socialización de películas) | - Falta de recomendaciones personalizadas basadas en las preferencias del usuario. <br> - No poder compartir fácilmente recomendaciones de películas con amigos y familiares. |
+| Información actualizada y disponibilidad de contenido (Actualización y disponibilidad de películas) | - No tener acceso a información actualizada sobre nuevos lanzamientos o próximas películas. <br> - No poder acceder a la información de las películas sin conexión a internet. |
+| Integración y notificaciones (Integración y notificaciones en plataformas de streaming) | - Falta de integración con otros dispositivos, como televisores o reproductores multimedia. <br> - No poder recibir notificaciones o recordatorios sobre el estreno de una película deseada o una película en la lista de "para ver más tarde". |
+
 
 ## MVP
 ### Objetivos ya logrados
